@@ -1,3 +1,4 @@
+"NextShare" is a full-stack social media application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. The app offers a user-friendly platform for social interaction, content sharing and users can follow other users and can watch their posts .
 #### What you need to run this code
 1. Node (13.12.0)
 2. NPM (6.14.4) or Yarn (1.22.4)
